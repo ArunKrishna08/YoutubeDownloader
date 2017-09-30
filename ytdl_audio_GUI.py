@@ -3,7 +3,6 @@
 # Name              : YouTube Downloader
 # Purpose           : YouTube Audio Downloader with GUI
 # Author            : Arun K
-# Email id          : akarunkrishna08@gmail.com
 # Version           : 1.4
 # Last Modified     : 11/04/2017
 # ----------------------------------------------------------------------------------------------------------------------
